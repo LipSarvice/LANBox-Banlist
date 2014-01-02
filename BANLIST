@@ -1,6 +1,17 @@
 LANBox-Banlist
 ==============
 
+
+COPY TEMPLATE BELOW FOR ADDING
+
+NAME:
+IP:
+GUID:
+REASON:
+LENGTH:
+BANNEE:
+
+
 Name: SecroNiTe 
 IP: 14.2.41.161  
 GUID: 3760ba9b085b5df87e6aafe733a7fb1b
